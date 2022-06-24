@@ -1,0 +1,68 @@
+.header{
+    text-align: center;
+}
+
+.container {
+    justify-content: space-between;
+    margin: 20px 100px;
+}
+
+.inputs{
+    margin: 10px 0;
+}
+
+.ageInput{
+    width: 100px;
+    text-align: center;
+}
+
+.total {
+    border: none;
+}
+
+.topSheet{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 100px;
+}
+
+span {
+    text-align: center;
+    border: solid 1px;
+    width: 25%;
+}
+
+.id {
+    width: 5%;
+}
+
+.content{
+    height: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 100px;
+}
+
+.conteudao {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 100px;
+}
+
+.sId{
+    width: 5%;
+}
+
+.sName{
+    width: 25%;
+}
+.sEmail{
+    width: 25%;
+}
+.sGender{
+    width: 25%;
+}
+.spanIdade{
+    width: 25%;
+}
